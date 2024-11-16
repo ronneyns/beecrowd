@@ -4,4 +4,5 @@ Linguagens de Consulta: Seleção, Inserção, Atualização, Criação
 ## Problemas Resolvidos
 - 2602: Select Básico
 - 2603: Endereço dos Clientes
+- 2604: Menores que 10 ou Maiores que 100
 
