@@ -19,7 +19,7 @@ Os problemas são identificados por um código e por uma descrição.
 Por exemplo, o problema 1000 é descrito como "Hello World!".
 
 ## Linguagens
-Para a solução dos problemas, várias linguagens estão disponíveis no sistema "juiz" como, por exemplo: C, C++, C#, Go, Java, Pascal, Python etc.
+Para a solução dos problemas, várias linguagens estão disponíveis no sistema "juiz" como, por exemplo, C, C++, C#, Go, Java, Pascal, Python, Rust, entre outras.
 
 Fica a critério do usuário selecionar como será a submissão de cada problema.
 
