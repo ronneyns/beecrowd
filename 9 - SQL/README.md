@@ -8,4 +8,5 @@ Linguagens de Consulta: Seleção, Inserção, Atualização, Criação
 - 2605: Representantes Executivos
 - 2606: Categorias
 - 2607: Cidades em Ordem Alfabética
+- 2608: Maior e Menor Preço
 
