@@ -1,5 +1,5 @@
 # beecrowd
-Soluções de problemas encontrados na plataforma de programação **beecrowd**
+Soluções de problemas encontrados na plataforma de programação **beecrowd**.
 
 ## Categorias
 Os problemas estão divididos por categorias:
