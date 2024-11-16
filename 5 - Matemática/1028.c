@@ -12,7 +12,7 @@ int main() {
 			F1 = F2;
 			F2 = aux;
 		}
-		// MDC
+		// MDC por Divisões Sucessivas
 		do {
 			aux = F1 % F2;
 			F1 = F2;
