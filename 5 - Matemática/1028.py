@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
-n = int(input())
-for i in range(n):
+for _ in range(int(input())):
 	f1, f2 = [int(x) for x in input().strip().split()]
 
 	# Se f2 > f1, troque os valores
