@@ -4,7 +4,7 @@
 # Algoritmo de Euclides (Divisões Sucessivas)
 # https://www.youtube.com/watch?v=SyhJFuw2u7c
 def mdc(x: int, y: int) -> int:
-	while y > 1:
+	while y > 0:
 		x, y = y, x % y
 	return x
 

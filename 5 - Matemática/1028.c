@@ -5,11 +5,11 @@
 int mdc(int x, int y) {
 	int aux;
 
-	do {
+	while (y > 0) {
 		aux = x % y;
 		x = y;
 		y = aux;
-	} while (y > 1);
+	}
 	return x;
 }
 
