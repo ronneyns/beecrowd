@@ -8,17 +8,16 @@ def BinarySearch(lista: list, valor: int) -> int:
 	return -1
 
 # ------------------------------------------------------------------------------
-caso = 1
-
 n, q = [int(x) for x in input().strip().split()]
+caso = 1
 while (n != 0) and (q != 0):
 	marmores = []
-	for i in range(n):
+	for _ in range(n):
 		marmores.append(int(input()))
 	marmores.sort()
 
 	print(f'CASE# {caso}:')
-	for i in range(q):
+	for _ in range(q):
 		valor = int(input())
 		pos = BinarySearch(marmores, valor)
 		if pos == -1:
