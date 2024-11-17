@@ -12,4 +12,5 @@ Linguagens de Consulta: Seleção, Inserção, Atualização, Criação
 - 2609: Produtos por Categorias
 - 2610: Valor Médio dos Produtos
 - 2611: Filmes de Ação
+- 2613: Filmes em Promoção
 
