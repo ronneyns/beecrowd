@@ -14,7 +14,7 @@ int main() {
 		if (d + r2 <= r1) {
 			printf("RICO\n");
 		} else {
-		printf("MORTO\n");
+			printf("MORTO\n");
 		}
 	}
 	return 0;
