@@ -1,24 +1,30 @@
 #include <stdio.h>
 
+// Algoritmo de Euclides (Divisões Sucessivas)
+// https://www.youtube.com/watch?v=SyhJFuw2u7c
+int mdc(int x, int y) {
+	int aux;
+
+	do {
+		aux = x % y;
+		x = y;
+		y = aux;
+	} while (y > 1);
+	return x;
+}
+
 int main() {
-	int n, f1, f2, aux;
+	int n, f1, f2;
 
 	scanf("%d", &n);
 	for (; n > 0; n--) {
 		scanf("%d%d", &f1, &f2);
-		// Se f2 > f1, troque os valores
+
 		if (f2 > f1) {
-			aux = f1;
-			f1 = f2;
-			f2 = aux;
+			printf("%d\n", mdc(f2, f1));
+		} else {
+			printf("%d\n", mdc(f1, f2));
 		}
-		// MDC por Divisões Sucessivas
-		do {
-			aux = f1 % f2;
-			f1 = f2;
-			f2 = aux;
-		} while (f2 > 1);
-		printf("%d\n", f1);
 	}
 	return 0;
 }

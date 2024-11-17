@@ -1,7 +1,9 @@
 # -*- coding: utf-8 -*-
 
 # ------------------------------------------------------------------------------
-def mdc_divisoes_sucessivas(x: int, y: int) -> int:
+# Algoritmo de Euclides (Divisões Sucessivas)
+# https://www.youtube.com/watch?v=SyhJFuw2u7c
+def mdc(x: int, y: int) -> int:
 	while y > 1:
 		x, y = y, x % y
 	return x
@@ -10,8 +12,8 @@ def mdc_divisoes_sucessivas(x: int, y: int) -> int:
 for _ in range(int(input())):
 	f1, f2 = [int(x) for x in input().strip().split()]
 
-	# Se f2 > f1, troque os valores
 	if f2 > f1:
-		f1, f2 = f2, f1
-	print(mdc_divisoes_sucessivas(f1, f2))
+		print(mdc(f2, f1))
+	else:
+		print(mdc(f1, f2))
 
