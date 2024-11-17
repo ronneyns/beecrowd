@@ -10,4 +10,5 @@ Linguagens de Consulta: Seleção, Inserção, Atualização, Criação
 - 2607: Cidades em Ordem Alfabética
 - 2608: Maior e Menor Preço
 - 2609: Produtos por Categorias
+- 2610: Valor Médio dos Produtos
 
