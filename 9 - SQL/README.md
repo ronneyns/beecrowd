@@ -9,4 +9,5 @@ Linguagens de Consulta: Seleção, Inserção, Atualização, Criação
 - 2606: Categorias
 - 2607: Cidades em Ordem Alfabética
 - 2608: Maior e Menor Preço
+- 2609: Produtos por Categorias
 
