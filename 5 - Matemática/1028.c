@@ -1,24 +1,24 @@
 #include <stdio.h>
 
 int main() {
-	int N, F1, F2, aux;
+	int n, f1, f2, aux;
 
-	scanf("%d", &N);
-	for (; N > 0; N--) {
-		scanf("%d%d", &F1, &F2);
-		// Se F2 > f1, troque os valores
-		if (F2 > F1) {
-			aux = F1;
-			F1 = F2;
-			F2 = aux;
+	scanf("%d", &n);
+	for (; n > 0; n--) {
+		scanf("%d%d", &f1, &f2);
+		// Se f2 > f1, troque os valores
+		if (f2 > f1) {
+			aux = f1;
+			f1 = f2;
+			f2 = aux;
 		}
 		// MDC por Divisões Sucessivas
 		do {
-			aux = F1 % F2;
-			F1 = F2;
-			F2 = aux;
-		} while (F2 > 1);
-		printf("%d\n", F1);
+			aux = f1 % f2;
+			f1 = f2;
+			f2 = aux;
+		} while (f2 > 1);
+		printf("%d\n", f1);
 	}
 	return 0;
 }
