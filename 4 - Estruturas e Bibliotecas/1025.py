@@ -1,10 +1,16 @@
-from bisect import bisect_left # https://docs.python.org/3/library/bisect.html
 
 # ------------------------------------------------------------------------------
-def BinarySearch(lista: list, valor: int) -> int:
-	pos = bisect_left(lista, valor)
-	if (pos != len(lista)) and (lista[pos] == valor):
-		return pos
+def busca_binaria(lista: list, valor: int) -> int:
+	inicio = 0
+	fim = len(lista)
+	while (inicio < fim):
+		meio = (inicio + fim) // 2
+		if (lista[meio] < valor):
+			inicio = meio + 1
+		else:
+			fim = meio
+	if (inicio < len(lista)) and (lista[inicio] == valor):
+		return inicio
 	return -1
 
 # ------------------------------------------------------------------------------
@@ -19,7 +25,7 @@ while (n != 0) and (q != 0):
 	print(f'CASE# {caso}:')
 	for _ in range(q):
 		valor = int(input())
-		pos = BinarySearch(marmores, valor)
+		pos = busca_binaria(marmores, valor)
 		if pos == -1:
 			print(f'{valor} not found')
 		else:
