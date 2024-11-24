@@ -13,4 +13,5 @@ Linguagens de Consulta: Seleção, Inserção, Atualização, Criação
 - 2610: Valor Médio dos Produtos
 - 2611: Filmes de Ação
 - 2613: Filmes em Promoção
+- 2614: Locações de Setembro
 
