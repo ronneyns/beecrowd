@@ -23,4 +23,5 @@ Linguagens de Consulta: Seleção, Inserção, Atualização, Criação
 - 2621: Quantidades Entre 10 e 20
 - 2622: Pessoas Jurídicas
 - 2623: Categorias com Vários Produtos
+- 2624: Quantidades de Cidades por Clientes
 
