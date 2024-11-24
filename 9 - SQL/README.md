@@ -18,4 +18,5 @@ Linguagens de Consulta: Seleção, Inserção, Atualização, Criação
 - 2616: Nenhuma Locação
 - 2617: Fornecedor Ajax SA
 - 2618: Produtos Importados
+- 2619: Super Luxo
 
