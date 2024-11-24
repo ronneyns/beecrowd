@@ -17,4 +17,5 @@ Linguagens de Consulta: Seleção, Inserção, Atualização, Criação
 - 2615: Expandindo o Negocio
 - 2616: Nenhuma Locação
 - 2617: Fornecedor Ajax SA
+- 2618: Produtos Importados
 
