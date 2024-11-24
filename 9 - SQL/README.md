@@ -22,4 +22,5 @@ Linguagens de Consulta: Seleção, Inserção, Atualização, Criação
 - 2620: Pedidos no Primeiro Semestre
 - 2621: Quantidades Entre 10 e 20
 - 2622: Pessoas Jurídicas
+- 2623: Categorias com Vários Produtos
 
