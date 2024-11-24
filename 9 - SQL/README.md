@@ -16,4 +16,5 @@ Linguagens de Consulta: Seleção, Inserção, Atualização, Criação
 - 2614: Locações de Setembro
 - 2615: Expandindo o Negocio
 - 2616: Nenhuma Locação
+- 2617: Fornecedor Ajax SA
 
