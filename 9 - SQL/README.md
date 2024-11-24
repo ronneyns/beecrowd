@@ -19,4 +19,5 @@ Linguagens de Consulta: Seleção, Inserção, Atualização, Criação
 - 2617: Fornecedor Ajax SA
 - 2618: Produtos Importados
 - 2619: Super Luxo
+- 2620: Pedidos no Primeiro Semestre
 
