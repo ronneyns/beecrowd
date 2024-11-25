@@ -28,13 +28,20 @@ WITH maior AS (
 
 SELECT
   *
-FROM maior
+FROM
+  maior
+
 UNION ALL
+
 SELECT
   *
-FROM menor
+FROM
+  menor
+
 UNION ALL
+
 SELECT
   *
-FROM media;
+FROM
+  media;
 
