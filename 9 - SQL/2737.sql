@@ -1,4 +1,5 @@
-WITH maior AS (
+WITH
+  maior AS (
     SELECT
       l1.name,
       l1.customers_number
