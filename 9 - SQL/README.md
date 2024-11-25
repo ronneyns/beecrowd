@@ -26,4 +26,5 @@ Linguagens de Consulta: Seleção, Inserção, Atualização, Criação
 - 2624: Quantidades de Cidades por Clientes
 - 2625: Máscara de CPF
 - 2737: Advogados
+- 2738: Concurso
 
