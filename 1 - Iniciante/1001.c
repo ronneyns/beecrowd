@@ -1,12 +1,13 @@
 #include <stdio.h>
  
 int main() {
-	int A, B, X;
+	int a, b, x;
 
-	scanf("%d", &A);
-	scanf("%d", &B);
-	X = A + B;
-	printf("X = %d\n", X);
+	scanf("%d", &a);
+	scanf("%d", &b);
+	x = a + b;
+	printf("X = %d\n", x);
+
 	return 0;
 }
 
