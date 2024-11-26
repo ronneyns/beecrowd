@@ -1,11 +1,13 @@
 #include <stdio.h>
  
 int main() {
-	int A, B, SOMA;
+	int a, b, soma;
 
-	scanf("%d%d", &A, &B);
-	SOMA = A + B;
-	printf("SOMA = %d\n", SOMA);
+	scanf("%d%d", &a, &b);
+
+	soma = a + b;
+	printf("SOMA = %d\n", soma);
+
 	return 0;
 }
 
