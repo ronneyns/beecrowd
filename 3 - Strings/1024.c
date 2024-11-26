@@ -5,11 +5,11 @@
 int main() {
 	const int M = 1000;
 	char entrada[M], saida[M], temp;
-	int N, i, pos, meio;
+	int n, i, pos, meio;
 
 	memset(entrada, '\0', M * sizeof(char));
-	scanf("%d", &N);
-	for (; N > 0; N--) {
+	scanf("%d", &n);
+	for (; n > 0; n--) {
 		// Limpar o buffer
 		scanf("%c", &temp);
 		scanf("%[^\n]", entrada);
