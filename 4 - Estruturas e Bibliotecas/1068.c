@@ -19,6 +19,7 @@ int main() {
 					break;
 				}
 			}
+			// Se começa trecho com um ")", sai do laço porque é fórmula mal estruturada
 			if (qtde_parenteses < 0) {
 				break;
 			}
