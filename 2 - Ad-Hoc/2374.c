@@ -7,6 +7,7 @@ int main() {
 		scanf("%d", &pressao_lida);
 		printf("%d\n", pressao_desejada - pressao_lida);
 	}
+
 	return 0;
 }
 
