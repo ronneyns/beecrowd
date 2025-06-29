@@ -6,4 +6,5 @@ Problemas de Simulação, Datas e Ad-Hoc no geral
 - 1030: A Lenda de Flavious Josephus
 - 2413: Busca na Internet
 - 2374: Pneu
+- 3487: Firmware - Substring Manipulation
 
