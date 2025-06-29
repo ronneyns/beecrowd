@@ -16,6 +16,7 @@ int main() {
 		}
 		printf("%d\n", qtde_acertos);
 	}
+
 	return 0;
 }
 
