@@ -8,5 +8,4 @@ Problemas de Simulação, Datas e Ad-Hoc no geral
 - 2374: Pneu
 - 3487: Firmware - Substring Manipulation
 - 3488: Binary/Hexadecimal Number Systems
-- 1144: Sequência Lógica
 

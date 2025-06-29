@@ -9,4 +9,5 @@ Problemas básicos para quem está iniciando na programação
 - 1004: Produto Simples
 - 1930: Tomadas
 - 2006: Identificando o Chá
+- 1144: Sequência Lógica
 
