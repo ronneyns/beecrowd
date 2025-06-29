@@ -7,4 +7,5 @@ Problemas básicos para quem está iniciando na programação
 - 1002: Área do Círculo
 - 1003: Soma Simples
 - 1004: Produto Simples
+- 1930: Tomadas
 
