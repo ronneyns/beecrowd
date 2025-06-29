@@ -9,4 +9,5 @@ Problemas de Simulação, Datas e Ad-Hoc no geral
 - 3487: Firmware - Substring Manipulation
 - 3488: Binary/Hexadecimal Number Systems
 - 2058: Triângulos e Polígonos Regulares
+- 1943: Top N
 
