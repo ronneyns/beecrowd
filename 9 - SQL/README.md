@@ -2,29 +2,29 @@
 Linguagens de Consulta: Seleção, Inserção, Atualização, Criação
 
 ## Problemas Resolvidos
-- 2602: Select Básico
-- 2603: Endereço dos Clientes
-- 2604: Menores que 10 ou Maiores que 100
-- 2605: Representantes Executivos
-- 2606: Categorias
-- 2607: Cidades em Ordem Alfabética
-- 2608: Maior e Menor Preço
-- 2609: Produtos por Categorias
-- 2610: Valor Médio dos Produtos
-- 2611: Filmes de Ação
-- 2613: Filmes em Promoção
-- 2614: Locações de Setembro
-- 2615: Expandindo o Negocio
-- 2616: Nenhuma Locação
-- 2617: Fornecedor Ajax SA
-- 2618: Produtos Importados
-- 2619: Super Luxo
-- 2620: Pedidos no Primeiro Semestre
-- 2621: Quantidades Entre 10 e 20
-- 2622: Pessoas Jurídicas
-- 2623: Categorias com Vários Produtos
-- 2624: Quantidades de Cidades por Clientes
-- 2625: Máscara de CPF
-- 2737: Advogados
-- 2738: Concurso
+- 2602: [Select Básico](https://www.beecrowd.com.br/repository/UOJ_2602.html)
+- 2603: [Endereço dos Clientes](https://www.beecrowd.com.br/repository/UOJ_2603.html)
+- 2604: [Menores que 10 ou Maiores que 100](https://www.beecrowd.com.br/repository/UOJ_2604.html)
+- 2605: [Representantes Executivos](https://www.beecrowd.com.br/repository/UOJ_2605.html)
+- 2606: [Categorias](https://www.beecrowd.com.br/repository/UOJ_2606.html)
+- 2607: [Cidades em Ordem Alfabética](https://www.beecrowd.com.br/repository/UOJ_2607.html)
+- 2608: [Maior e Menor Preço](https://www.beecrowd.com.br/repository/UOJ_2608.html)
+- 2609: [Produtos por Categorias](https://www.beecrowd.com.br/repository/UOJ_2609.html)
+- 2610: [Valor Médio dos Produtos](https://www.beecrowd.com.br/repository/UOJ_2610.html)
+- 2611: [Filmes de Ação](https://www.beecrowd.com.br/repository/UOJ_2611.html)
+- 2613: [Filmes em Promoção](https://www.beecrowd.com.br/repository/UOJ_2613.html)
+- 2614: [Locações de Setembro](https://www.beecrowd.com.br/repository/UOJ_2614.html)
+- 2615: [Expandindo o Negocio](https://www.beecrowd.com.br/repository/UOJ_2615.html)
+- 2616: [Nenhuma Locação](https://www.beecrowd.com.br/repository/UOJ_2616.html)
+- 2617: [Fornecedor Ajax SA](https://www.beecrowd.com.br/repository/UOJ_2617.html)
+- 2618: [Produtos Importados](https://www.beecrowd.com.br/repository/UOJ_2618.html)
+- 2619: [Super Luxo](https://www.beecrowd.com.br/repository/UOJ_2619.html)
+- 2620: [Pedidos no Primeiro Semestre](https://www.beecrowd.com.br/repository/UOJ_2620.html)
+- 2621: [Quantidades Entre 10 e 20](https://www.beecrowd.com.br/repository/UOJ_2621.html)
+- 2622: [Pessoas Jurídicas](https://www.beecrowd.com.br/repository/UOJ_2622.html)
+- 2623: [Categorias com Vários Produtos](https://www.beecrowd.com.br/repository/UOJ_2623.html)
+- 2624: [Quantidades de Cidades por Clientes](https://www.beecrowd.com.br/repository/UOJ_2624.html)
+- 2625: [Máscara de CPF](https://www.beecrowd.com.br/repository/UOJ_2625.html)
+- 2737: [Advogados](https://www.beecrowd.com.br/repository/UOJ_2737.html)
+- 2738: [Concurso](https://www.beecrowd.com.br/repository/UOJ_2738.html)
 
