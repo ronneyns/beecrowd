@@ -11,11 +11,15 @@ int main() {
 
 	while (scanf("%d%d%d", &a, &b, &c) != EOF) {
 		semiperimetro = (double) (a + b + c) / 2;
+
+		// https://www.youtube.com/watch?v=kXyF_fdQEd0
 		area_triangulo = sqrt(semiperimetro * (semiperimetro - a) * (semiperimetro - b) * (semiperimetro - c));
 
+		// https://www.youtube.com/watch?v=OV0nydAi7fw
 		raio_circ_pequeno = area_triangulo / semiperimetro;
 		area_circ_pequeno = PI * pow(raio_circ_pequeno, 2);
 
+		// https://www.youtube.com/watch?v=8Nyy1b9qu00
 		raio_circ_grande = (a * b * c) / (4 * area_triangulo);
 		area_circ_grande = PI * pow(raio_circ_grande, 2);
 
