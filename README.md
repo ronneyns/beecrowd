@@ -1,5 +1,6 @@
 # beecrowd
 Soluções de problemas encontrados na plataforma de programação **[beecrowd](https://beecrowd.com/pt/)**.
+[](Logo-beecrowd.svg)
 
 ## Categorias
 Os problemas estão divididos por categorias:
