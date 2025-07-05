@@ -1,4 +1,5 @@
-# [beecrowd](https://beecrowd.com/wp-content/uploads/2024/03/Main-Logo-beecrowd-H.svg)
+# beecrowd
+![Logo](https://beecrowd.com/wp-content/uploads/2024/03/Main-Logo-beecrowd-H.svg)
 
 Soluções de problemas encontrados na plataforma de programação **[beecrowd](https://beecrowd.com/pt/)**.
 
